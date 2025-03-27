@@ -1,4 +1,4 @@
-package BruteFoce.BOJ_3040
+package bruteforce.boj_3040
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

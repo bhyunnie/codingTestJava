@@ -1,8 +1,6 @@
-package BruteForce.BOJ_2231;
+package bruteforce.boj_2231;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Scanner;
 
 // 74784kb 284ms
 public class Main {

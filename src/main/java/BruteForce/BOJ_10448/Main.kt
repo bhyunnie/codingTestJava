@@ -1,4 +1,4 @@
-package BruteForce.BOJ_10448
+package bruteforce.boj_10448
 
 import java.io.BufferedReader
 import java.io.InputStreamReader

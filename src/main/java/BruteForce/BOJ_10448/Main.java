@@ -1,8 +1,7 @@
-package BruteForce.BOJ_10448;
+package bruteforce.boj_10448;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 // 20980kb 236ms
 public class Main {

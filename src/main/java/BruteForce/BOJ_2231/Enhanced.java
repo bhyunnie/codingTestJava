@@ -1,4 +1,4 @@
-package BruteForce.BOJ_2231;
+package bruteforce.boj_2231;
 
 import java.io.*;
 
